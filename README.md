@@ -73,3 +73,26 @@ Unnecessary, redundant, or highly incomplete fields were removed during the data
 | `LAT` | Latitude coordinate of the crime location. |
 | `LON` | Longitude coordinate of the crime location. |
 
+
+## 🔍 Key Insights
+
+- 📊 **269K total crime incidents** are represented in the analyzed dataset, including **250K incidents from complete years** and approximately **19K incidents from the partial 2024 period**.
+
+- ⏱️ **65.4% of crimes were reported on the same day**, while only **2.7% were reported more than 30 days after occurrence**.
+
+- 📅 The overall **average reporting delay was 6.0 days**. The average delay decreased consistently from approximately **8.8 days in 2020 to 2.1 days in 2024**.
+
+- 📍 **Southwest** was identified as the area with the highest number of reported crime incidents.
+
+- 🕐 Crime occurrence was highest during the **Afternoon (12–17)** and **Evening (18–23)** periods, with both accounting for substantially more incidents than the Night period.
+
+- 📈 Annual reported crime counts were approximately **71K in 2020, 61K in 2021, 61K in 2022, and 57K in 2023**. The **2024 figure is approximately 19K because the dataset covers only part of the year**.
+
+- 🗺️ **99.92% of location records contained valid geographic coordinates**, while only **0.08%** were identified as placeholder coordinates, supporting reliable geographic visualization.
+
+- 🏷️ The Part 1–2 crime distribution shows a dominant category containing approximately **172K incidents (64.19%)**, followed by **53K (19.74%)**, **40K (14.98%)**, and **2K (0.72%)** across the displayed categories.
+
+- 👥 The overall average recorded victim age was **38.7 years**.
+
+- 📋 The dashboard identifies **130 distinct crime categories**, enabling analysis across a broad range of reported offenses.
+
