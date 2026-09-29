@@ -48,7 +48,7 @@ Los-Angeles-Crime-Analytics/
 ├── Los_Angeles_Crime_Analytics.pbix
 │
 └── README.md
-
+```
 ## 📋 Cleaned Dataset – Column Description
 
 The dataset was cleaned and prepared for analysis in Power BI. 
