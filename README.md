@@ -1,10 +1,10 @@
 # Los Angeles Crime Analytics Dashboard
-<p align="center">
-  <img src="skyline.jpg" alt="Los Angeles Skyline" width="100%">
-</p>
 
 An interactive **Power BI dashboard** for analyzing crime patterns in Los Angeles.  
 The project transforms and analyzes crime data to identify trends across time, geography, crime types, victims, reporting delays, and data quality.
+<p align="center">
+  <img src="skyline.jpg" alt="Los Angeles Skyline" width="100%">
+</p>
 
 ## 📊 Project Overview
 
